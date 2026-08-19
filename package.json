@@ -1,0 +1,11 @@
+{
+  "name": "ember",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A personal Discord companion and automation bot",
+  "license": "UNLICENSED",
+  "author": "V4z!0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {}
+}
